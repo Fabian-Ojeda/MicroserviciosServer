@@ -11,4 +11,4 @@ app.get('/', (req, res)=>{
     res.send(data)
 })
 
-module.exports = app
+module.exports = app;
